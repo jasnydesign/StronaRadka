@@ -1,1 +1,1 @@
-# StronaRadka
+# StronaRadka is awesome
